@@ -1,5 +1,8 @@
 ### Hi there 👋
 I'm a Computer Science Student at the University of Oklahoma. I'm currently working as a Full-Stack Web Developer at the Cooperative Institute for Severe and High-Impact Weather Research and Operations as well as a Software Development Intern at O'Reilly Auto Parts.
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=proesslet)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **proesslet/proesslet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
