@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Computer Science Student at the University of Oklahoma. I'm currently working as a Full-Stack Web Developer at the Cooperative Institute for Severe and High-Impact Weather Research and Operations as well as a Jr. Software Developer at O'Reilly Auto Parts.
+I'm a Computer Science Student at the University of Oklahoma expecting to graduate in Fall 2024. I'm a Software Developer 1 at O'Reilly Auto Parts where I have been since May 2023. Outside of work I enjoy working on personal projects, learning new languages/problem solving techniques, and helping others learn how to code. 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=proesslet)](https://github.com/anuraghazra/github-readme-stats)
 
