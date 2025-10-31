@@ -23,5 +23,5 @@ My primary tools of choice are **Java** and the **JavaScript/TypeScript** ecosys
 You can find me around the web. Let's connect!
 
 - 🌐 **Portfolio:** [prestonroesslet.com](https://prestonroesslet.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/preston-roesslet)
+- 🔗 **LinkedIn:** [linkedin.com/in/preston-roesslet](https://www.linkedin.com/in/preston-roesslet)
 - 🐦 **X:** [@prestonroesslet](https://x.com/prestonroesslet)
