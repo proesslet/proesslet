@@ -1,19 +1,27 @@
-### Hi there 👋
-I'm a Computer Science Student at the University of Oklahoma expecting to graduate in Fall 2024. I'm a Software Developer 1 at O'Reilly Auto Parts where I have been since May 2023. Outside of work I enjoy working on personal projects, learning new languages/problem solving techniques, and helping others learn how to code. 
+# Hi there, I'm Preston 👋
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=proesslet)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-<!--
-**proesslet/proesslet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** and a current **M.S. in Computer Science student at Georgia Institute of Technology** 🐝.
 
-Here are some ideas to get you started:
+I'm passionate about building software that solves real-world problems. I'm driven by a constant desire to learn new things and build robust, scalable applications - the kind of engineering that keeps our digital world running.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently learning to balance my full-time engineering role with my graduate studies
+- 🌱 I'm always learning and exploring new technologies and concepts
+- 🚀 I love building side projects to try out new ideas (currently tinkering with a new app!)
+
+---
+
+### 💻 My Tech Stack
+
+My primary tools of choice are **Java** and the **JavaScript/TypeScript** ecosystem, but I'm always open to learning new things.
+
+---
+
+### 📫 How to Connect
+
+You can find me around the web. Let's connect!
+
+- 🌐 **Portfolio:** [prestonroesslet.com](https://prestonroesslet.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/preston-roesslet)
+- 🐦 **X:** [@prestonroesslet](https://x.com/prestonroesslet)
